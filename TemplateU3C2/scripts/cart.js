@@ -48,12 +48,12 @@ var total=document.querySelector("#total")
 total.innerHTML=`total ammount of your order is ₹ ${sum}`;
 // var data =JSON.parse(localStorage.getItem("cart"))||[];
 
-function removeitem(data,index){
-  console.log(data,index);
+function removeitem(index){
+//   console.log(data,index);
 
 data.splice(index,1)
 
 localStorage.setItem("cart",JSON.stringify(data))
 refreshdata(data);
-
+window.location.reload()
 }
