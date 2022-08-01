@@ -6,6 +6,9 @@
 myshopoffood is a Indian legitimate online food delivery website, offering a wide range of foods at very cheap prices.
 
 
+### Netlify Link
+
+https://myshopoffood.netlify.app
 
 
 ---
@@ -41,6 +44,3 @@ myshopoffood is a Indian legitimate online food delivery website, offering a wid
 ---
 
 
-### Netlify Link
-
-https://myshopoffood.netlify.app
